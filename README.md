@@ -1,12 +1,28 @@
 # Case Study on OpenAI and Sora
 
+Hello, I'm Michael Leston - a brand new programmer. I will be presenting a case
+study on OpenAI with a specific focus on Sora, their text-to-video model.
+
 ## Overview and Origin
 
-* OpenAI Inc
+* OpenAI Inc was founded in December 2015.
 
-* Founded in December 2015 as a non-profit. 
+### Founding Members:
 
-* Greg Brockman, Ilya Sutskever, Trevor Blackwell, Vicki Cheung, Andrej Karpathy, Durk Kingma, John Schulman, Pamela Vagata, and Wojciech Zaremba. Pieter Abbeel, Yoshua Bengio, Alan Kay, Sergey Levine, and Vishal Sikka, co-chairs of the board Sam Altman and Elon Musk
+* Greg Brockman
+* Ilya Sutskever
+* Trevor Blackwell
+* Vicki Cheung
+* Andrej Karpathy
+* Durk Kingma
+* John Schulman
+* Pamela Vagata
+* Wojciech Zaremba
+
+### Founding Co-Chairs
+
+* Sam Altman
+* Elon Musk
 
 * How did the idea for the company (or project) come about?
 
