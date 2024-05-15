@@ -24,8 +24,12 @@ study on OpenAI with a specific focus on Sora, their text-to-video model.
 * Sam Altman
 * Elon Musk
 
-* Originally founded as a non-profit with the goal to "...advance digital intelligence in the way that is most likely to benefit humanity as a whole..."[^1]:(https://openai.com/index/introducing-openai/), 
-  OpenAI received funding from notables including Peter Thiel and Elon Musk. OpenAI transitioned to a for-profit in 2019 and has undergone multiple changes in board members and has seen the departure of certain founding members.  
+### Company History
+
+* OpenAI received principal funding from notables including Peter Thiel, Elon Musk, Reid Hoffmann, and Jessica Livingston.
+
+* Originally founded as a non-profit with the goal to "...advance digital intelligence in the way that is most likely to benefit humanity as a whole..."[^1]:[(https://openai.com/index/introducing-openai/)], 
+OpenAI transitioned to a for-profit in 2019 and has undergone multiple changes in board members and has seen the departure of certain founding members.  
 
 ## Business Activities
 
