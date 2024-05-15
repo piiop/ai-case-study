@@ -19,14 +19,13 @@ study on OpenAI with a specific focus on Sora, their text-to-video model.
 * Pamela Vagata
 * Wojciech Zaremba
 
-### Founding Co-Chairs
+### Founding Board Co-Chairs
 
 * Sam Altman
 * Elon Musk
 
-* How did the idea for the company (or project) come about?
-
-* Operates as a non-profit. 2019 transition to capped for-profit
+* Originally founded as a non-profit with the goal to "...advance digital intelligence in the way that is most likely to benefit humanity as a whole..."[^1(https://openai.com/index/introducing-openai/)], 
+  OpenAI received funding from notables including Peter Thiel and Elon Musk. OpenAI transitioned to a for-profit in 2019 and has undergone multiple changes in board members and has seen the departure of certain founding members.  
 
 ## Business Activities
 
