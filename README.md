@@ -28,8 +28,7 @@ study on OpenAI with a specific focus on Sora, their text-to-video model.
 
 * OpenAI received principal funding from notables including Peter Thiel, Elon Musk, Reid Hoffmann, and Jessica Livingston.
 
-* Originally founded as a non-profit with the goal to "...advance digital intelligence in the way that is most likely to benefit humanity as a whole..."[^fn1], 
-OpenAI transitioned to a for-profit in 2019 and has undergone multiple changes in board members and has seen the departure of certain founding members.  
+* Originally founded as a non-profit with the goal to "...advance digital intelligence in the way that is most likely to benefit humanity as a whole..."[^1], OpenAI transitioned to a for-profit in 2019 and has undergone multiple changes in board members and has seen the departure of certain founding members.  
 
 ## Business Activities
 
@@ -67,4 +66,4 @@ OpenAI transitioned to a for-profit in 2019 and has undergone multiple changes i
 
 * Why are these technologies appropriate for your solution?
 
-[fn1]:[(https://openai.com/index/introducing-openai/)]
+[^1]:(https://openai.com/index/introducing-openai/)
