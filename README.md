@@ -30,7 +30,7 @@ study on OpenAI with a specific focus on Sora, their text-to-video model.
 
 * Originally founded as a non-profit with the goal to "...advance digital intelligence in the way that is most likely to benefit humanity as a whole..."[^1], OpenAI transitioned to a for-profit in 2019 and has undergone multiple changes in board members and has seen the departure of certain founding members.  
 
-* With the release of ChatGPT in November 2022, OpenAI has become one of the most well known artificial intelligence companies. Monthly visit totals to ChatGPT have gromwn from 266 million in December 2022 to 1.8 billion in March 2024.[^2]
+* With the release of ChatGPT in November 2022, OpenAI has become one of the most well known artificial intelligence companies. OpenAI has developed research projects involved with reinforcement learning, generative pre-trained transformers (GPTs), code generators, text-to-image, and speech-to-text models. ChatGPT boasts 180 millions user and monthly visit totals to ChatGPT have grown from 266 million in December 2022 to 1.8 billion in March 2024.[^2]
 
 ### Landscape
 
@@ -52,6 +52,8 @@ Although OpenAI boasts many products and applications, we'll be looking specific
 
 * Although Sora remains unavailable to the public, the response to the video demos released in February 2024 has been impactful. Many news articles and videos were published with varying praise and critique of Sora's capabilities.[^3] 
 
+>"Sora Is Going to Change Hollywood, but Hollywood Needs to Have Final Cut"[^4]
+
 * Sora undoubtedly will affect all visual media fields such as: news media, filmmaking, television and streaming services, social media apps like TikTok and Snapchat, video focused websites like YouTube and Vimeo - as well as having uses in advertising/marketing, AI assisted teaching and education, gaming, writing, and many others areas.
 
 * On May 14, 2024 Google announced Veo, their newest generative video model and direct competitor to Sora. Other generative video models include (but not are not limited to):
@@ -62,14 +64,11 @@ Although OpenAI boasts many products and applications, we'll be looking specific
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* I would recommend OpenAI use Sora to produce educational content and assist educators in the learning process. Specialized content videos for students as well as teachers could streamline and improve current methods. This would also align with OpenAI's original goal to benefit humanity. They could also alleviate concerns with deepfakes, copyright infringement, nsfw content, and the use of misaligned artificial intelligence. 
 
-* Why do you think that offering this product or service would benefit the company?
-
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+* While OpenAI does offer tutorials, their role in education seems to have dropped well behind [Grow with Google](https://grow.google/) and others like [DataRobot](https://learn.datarobot.com/).
 
 [^1]:(https://openai.com/index/introducing-openai/)
 [^2]:(https://explodingtopics.com/blog/chatgpt-users)
 [^3]:(https://www.hollywoodreporter.com/business/business-news/tyler-perry-ai-alarm-1235833276/)
+[^4]:(https://variety.com/2024/digital/opinion/sora-open-ai-change-hollywood-offense-defense-1235972817/)]
