@@ -34,11 +34,9 @@ study on OpenAI with a specific focus on Sora, their text-to-video model.
 
 ### Landscape
 
-* OpenAI has been one of the leaders of generative AI race.
+* OpenAI has been one of the leaders of generative AI race, utilizing increased GPU power as well as new developments in deep learning, neural networks, diffusion models, transformer architectures. ChatGPT, originally described as an LLM (Large Language Model) could now be called a **multimodal** model (LMM perhaps?) due to its use of various data types  on top of just text.
 
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-
-* Big tech companies like Google, Meta, Amazon, and Apple are strong competitors in the field of AI. OpenAI has partnered with Microsoft and worked with NVidia, other tech giants.
+* Big tech companies like Google, Meta, Amazon, and Apple are strong competitors in the field of AI. OpenAI has partnered with Microsoft and worked with NVidia - other tech giants.
 
 ## Sora
 
@@ -48,11 +46,13 @@ Although OpenAI boasts many products and applications, we'll be looking specific
 
 * Sora uses *patches* for models of visual data instead of *tokens* used by LLMs.  
 
-* Sora incorporates ChatGPT to expand user prompts into more robust descriptions for more accurate output as high quality video.
+* Sora incorporates ChatGPT to expand user prompts into more robust descriptions for accurate output in the form of high quality video.
 
 ## Impact
 
 * Although Sora remains unavailable to the public, the response to the video demos released in February 2024 has been impactful. Many news articles and videos were published with varying praise and critique of Sora's capabilities.[^3] 
+
+* Sora undoubtedly will affect all visual media fields such as: news media, filmmaking, television and streaming services, social media apps like TikTok and Snapchat, video focused websites like YouTube and Vimeo - as well as having uses in advertising/marketing, AI assisted teaching and education, gaming, writing, and many others areas.
 
 * On May 14, 2024 Google announced Veo, their newest generative video model and direct competitor to Sora. Other generative video models include (but not are not limited to):
 
