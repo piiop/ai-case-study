@@ -32,6 +32,14 @@ study on OpenAI with a specific focus on Sora, their text-to-video model.
 
 * With the release of ChatGPT in November 2022, OpenAI has become one of the most well known artificial intelligence companies. Monthly visit totals to ChatGPT have gromwn from 266 million in December 2022 to 1.8 billion in March 2024.[^2]
 
+### Landscape
+
+* OpenAI has been one of the leaders of generative AI race.
+
+* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
+
+* Big tech companies like Google, Meta, Amazon, and Apple are strong competitors in the field of AI. OpenAI has partnered with Microsoft and worked with NVidia, other tech giants.
+
 ## Sora
 
 Although OpenAI boasts many products and applications, we'll be looking specifically at Sora.
@@ -42,21 +50,15 @@ Although OpenAI boasts many products and applications, we'll be looking specific
 
 * Sora incorporates ChatGPT to expand user prompts into more robust descriptions for more accurate output as high quality video.
 
-## Landscape
-
-* What field is the company in?
-
-* What have been the major trends and innovations of this field over the last 5&ndash;10 years?
-
-* What are the other major companies in this field?
-
 ## Impact
 
-* Although Sora remains unavaibable, the response to the video demos released in February 2024 has been enormous.  
+* Although Sora remains unavailable to the public, the response to the video demos released in February 2024 has been impactful. Many news articles and videos were published with varying praise and critique of Sora's capabilities. 
 
-* What are some of the core metrics that companies in this field use to measure success? How is your company performing based on these metrics?
+* On May 14, 2024 Google announced Veo, their newest generative video model and direct competitor to Sora. Other generative video models include (but not are not limited to):
 
-* How is your company performing relative to competitors in the same field?
+1. Google's [Imagen Video](https://imagen.research.google/video/), [Phenaki](https://phenaki.video/), and [Lumiere](https://lumiere-video.github.io/)
+2. Meta's [Make-A-Video](https://makeavideo.studio/)
+3. Runway's [Gen-2](https://research.runwayml.com/gen2)
 
 ## Recommendations
 
