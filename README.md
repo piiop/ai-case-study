@@ -66,7 +66,7 @@ Although OpenAI boasts many products and applications, we'll be looking specific
 
 * I would recommend OpenAI use Sora to produce educational content and assist educators in the learning process. Specialized content videos for students as well as teachers could streamline and improve current methods. This would also align with OpenAI's original goal to benefit humanity. They could also alleviate concerns with deepfakes, copyright infringement, nsfw content, and the use of misaligned artificial intelligence. 
 
-* While OpenAI does offer tutorials, their role in education seems to have dropped well behind [Grow with Google](https://grow.google/) and others like [DataRobot](https://learn.datarobot.com/).
+* While OpenAI does offer [tutorials](https://platform.openai.com/docs/quickstart), their role in education seems to have dropped well behind [Grow with Google](https://grow.google/) and others like [DataRobot](https://learn.datarobot.com/).
 
 [^1]:(https://openai.com/index/introducing-openai/)
 [^2]:(https://explodingtopics.com/blog/chatgpt-users)
