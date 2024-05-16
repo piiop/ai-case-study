@@ -40,9 +40,9 @@ study on OpenAI with a specific focus on Sora, their text-to-video model.
 
 ## Sora
 
-Although OpenAI boasts many products and applications, we'll be looking specifically at Sora.
+Although OpenAI boasts many products and applications, we'll be looking specifically at Sora.As of May 16, 2024 Sora is not yet available to the public.
 
-* What is Sora? Sora is a generative ai model, specifically a **denoising latent diffusion model**, specializing in text-to-video. As of May 16, 2024 Sora is not yet available to the public.
+* What is Sora? Sora is a generative ai model, specifically a **denoising latent diffusion model**, specializing in text-to-video. Diffusion models were first introduced in 2015 and improved upon with denoising techniques in 2020. Sora utilizes one transformer.
 
 * Sora uses *patches* for models of visual data instead of *tokens* used by LLMs.  
 
@@ -72,3 +72,4 @@ Although OpenAI boasts many products and applications, we'll be looking specific
 [^2]:(https://explodingtopics.com/blog/chatgpt-users)
 [^3]:(https://www.hollywoodreporter.com/business/business-news/tyler-perry-ai-alarm-1235833276/)
 [^4]:(https://variety.com/2024/digital/opinion/sora-open-ai-change-hollywood-offense-defense-1235972817/)]
+(https://en.wikipedia.org/wiki/OpenAI)
