@@ -72,4 +72,4 @@ Although OpenAI boasts many products and applications, we'll be looking specific
 [^2]:(https://explodingtopics.com/blog/chatgpt-users)
 [^3]:(https://www.hollywoodreporter.com/business/business-news/tyler-perry-ai-alarm-1235833276/)
 [^4]:(https://variety.com/2024/digital/opinion/sora-open-ai-change-hollywood-offense-defense-1235972817/)]
-(https://en.wikipedia.org/wiki/OpenAI)
+[OpenAI Wiki](https://en.wikipedia.org/wiki/OpenAI)
