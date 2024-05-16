@@ -9,20 +9,20 @@ study on OpenAI with a specific focus on Sora, their text-to-video model.
 
 ### Founding Members:
 
-- Greg Brockman
-- Ilya Sutskever
-- Trevor Blackwell
-- Vicki Cheung
-- Andrej Karpathy
-- Durk Kingma
-- John Schulman
-- Pamela Vagata
-- Wojciech Zaremba
+    - Greg Brockman
+    - Ilya Sutskever
+    - Trevor Blackwell
+    - Vicki Cheung
+    - Andrej Karpathy
+    - Durk Kingma
+    - John Schulman
+    - Pamela Vagata
+    - Wojciech Zaremba
 
 ### Founding Board Co-Chairs
 
-- Sam Altman
-- Elon Musk
+    - Sam Altman
+    - Elon Musk
 
 ### Company History
 
@@ -56,9 +56,9 @@ Although OpenAI boasts many products and applications, we'll be looking specific
 
 * On May 14, 2024 Google announced Veo, their newest generative video model and direct competitor to Sora. Other generative video models include (but not are not limited to):
 
-1. Google's [Imagen Video](https://imagen.research.google/video/), [Phenaki](https://phenaki.video/), and [Lumiere](https://lumiere-video.github.io/)
-2. Meta's [Make-A-Video](https://makeavideo.studio/)
-3. Runway's [Gen-2](https://research.runwayml.com/gen2)
+    1. Google's [Imagen Video](https://imagen.research.google/video/), [Phenaki](https://phenaki.video/), and [Lumiere](https://lumiere-video.github.io/)
+    2. Meta's [Make-A-Video](https://makeavideo.studio/)
+    3. Runway's [Gen-2](https://research.runwayml.com/gen2)
 
 ## Recommendations
 
