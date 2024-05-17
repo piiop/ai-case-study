@@ -58,7 +58,7 @@ Although OpenAI boasts many products and applications, we'll be looking specific
 
 * Sora undoubtedly will affect all visual media fields such as: news media, filmmaking, television and streaming services, social media apps like TikTok and Snapchat, video focused websites like YouTube and Vimeo - as well as having uses in advertising/marketing, AI assisted teaching and education, gaming, writing, and many others areas.
 
-* On May 14, 2024 Google announced [Veo](https://deepmind.google/technologies/veo/), their newest generative video model and direct competitor to Sora. Other generative video models include (but not are not limited to):
+* Text-to-video models are under the spotlight in the global AI race. On May 14, 2024 Google announced [Veo](https://deepmind.google/technologies/veo/), their newest generative video model and direct competitor to Sora. Other generative video models include (but not are not limited to):
 
     1. Google's [Imagen Video](https://imagen.research.google/video/), [Phenaki](https://phenaki.video/), and [Lumiere](https://lumiere-video.github.io/)
     2. Meta's [Make-A-Video](https://makeavideo.studio/)
